@@ -83,7 +83,8 @@ body {
 	}
 
 	body {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Palatino Linotype", Palatino, "URW Palladio L", serif;
+		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
 		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.65;
